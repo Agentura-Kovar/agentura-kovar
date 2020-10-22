@@ -1,0 +1,24 @@
+{
+  "name": "agentura-kovar",
+  "version": "1.0.0",
+  "description": "Website for Agentura Kovar company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "node-sass scss/index.scss assets/css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbursa/agentura-kovar.git"
+  },
+  "author": "Daniel Bursa, Veronika Kapralikova, Vojtech Rerabek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbursa/agentura-kovar/issues"
+  },
+  "homepage": "https://github.com/dbursa/agentura-kovar#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "node-sass": "^4.14.1"
+  }
+}
